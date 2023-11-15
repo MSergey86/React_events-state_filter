@@ -1,0 +1,18 @@
+.Toolbar {
+    display: flex;
+}
+
+button {
+    height: 25px;
+    color: grey;
+    background-color: white;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.active {
+    color: white;
+    background-color: gray;
+    
+}
